@@ -1,0 +1,13 @@
+Enter Account Number: 1
+Enter First Name: Peter
+Enter Last Name: Meier
+Enter Balance: 400
+Enter Account Number: 40
+Enter First Name: Mic”l
+Enter Last Name: Reaves
+Enter Balance: 200000
+Enter Account Number: 20
+Enter First Name: Disgustet
+Enter Last Name: Toast
+Enter Balance: 100000
+ 
