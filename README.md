@@ -1,4 +1,7 @@
-is able to be controlled over the terminal. The challenge was to get back into C++ after a long time. 
+# Banking Interface/Storage System
+
+## Idea:
+The Idea was to create a small Banking System with an non non volatile memory management that is able to be controlled over the terminal. The challenge was to get back into C++ after a long time. 
 
 ## Code:
 The code is divided into 7 methods which are all called in the main method. 
@@ -9,8 +12,6 @@ The code is divided into 7 methods which are all called in the main method.
 - Show_All()
 - Edit_Record()
 - Delete_Record()
-
-
 
 
 ## Features:
